@@ -1,0 +1,16 @@
+*{
+    margin: 0 !important;
+}
+.nav{
+    background-color: rgba(131, 4, 4, 0.822);
+    color: aqua;
+    justify-content: space-evenly;
+    
+    display: flex;
+
+}
+.nav  li {
+
+    display: inline;
+
+}
